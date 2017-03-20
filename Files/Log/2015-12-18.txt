@@ -1,0 +1,51 @@
+15时42分00秒 : debug   >> 数据库连接成功!
+15时42分00秒 : debug   >> createDataBaseAllTables success!
+15时42分01秒 : debug   >> socket open success
+15时42分09秒 : debug   >>  writeCanHandshake Send Error frame!
+15时42分09秒 : debug   >> writeCanHandshake false
+15时42分09秒 : debug   >> readCanHandshake false
+15时42分10秒 : debug   >>  writeCanHandshake Send Error frame!
+15时42分10秒 : debug   >> writeCanHandshake false
+15时42分10秒 : debug   >> readCanHandshake false
+15时42分10秒 : debug   >>  writeCanHandshake Send Error frame!
+15时42分10秒 : debug   >> writeCanHandshake false
+15时42分10秒 : debug   >> readCanHandshake false
+15时42分11秒 : debug   >>  writeCanHandshake Send Error frame!
+15时42分11秒 : debug   >> writeCanHandshake false
+15时42分11秒 : debug   >> readCanHandshake false
+15时42分11秒 : debug   >>  writeCanHandshake Send Error frame!
+15时42分11秒 : debug   >> writeCanHandshake false
+15时42分11秒 : debug   >> readCanHandshake false
+15时42分12秒 : debug   >>  writeCanHandshake Send Error frame!
+15时42分12秒 : debug   >> writeCanHandshake false
+15时42分12秒 : debug   >> readCanHandshake false
+15时42分12秒 : debug   >>  writeCanHandshake Send Error frame!
+15时42分12秒 : debug   >> writeCanHandshake false
+15时42分12秒 : debug   >> readCanHandshake false
+15时42分13秒 : debug   >>  writeCanHandshake Send Error frame!
+15时42分13秒 : debug   >> writeCanHandshake false
+15时42分13秒 : debug   >> readCanHandshake false
+15时42分13秒 : debug   >>  writeCanHandshake Send Error frame!
+15时42分13秒 : debug   >> writeCanHandshake false
+15时42分13秒 : debug   >> readCanHandshake false
+15时42分14秒 : debug   >>  writeCanHandshake Send Error frame!
+15时42分14秒 : debug   >> writeCanHandshake false
+15时42分14秒 : debug   >> readCanHandshake false
+15时42分14秒 : debug   >>  writeCanHandshake Send Error frame!
+15时42分14秒 : debug   >> writeCanHandshake false
+15时42分14秒 : debug   >> readCanHandshake false
+15时54分35秒 : debug   >> 数据库连接成功!
+15时54分35秒 : debug   >> createDataBaseAllTables success!
+15时54分35秒 : debug   >> socket open success
+15时54分43秒 : debug   >>  writeCanHandshake Send Error frame!
+15时54分43秒 : debug   >> writeCanHandshake false
+15时54分43秒 : debug   >> readCanHandshake false
+15时54分43秒 : debug   >>  writeCanHandshake Send Error frame!
+15时54分43秒 : debug   >> writeCanHandshake false
+15时54分43秒 : debug   >> readCanHandshake false
+15时54分44秒 : debug   >>  writeCanHandshake Send Error frame!
+15时54分44秒 : debug   >> writeCanHandshake false
+15时54分44秒 : debug   >> readCanHandshake false
+15时54分44秒 : debug   >>  writeCanHandshake Send Error frame!
+15时54分44秒 : debug   >> writeCanHandshake false
+15时54分44秒 : debug   >> readCanHandshake false

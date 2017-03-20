@@ -1,0 +1,63 @@
+<RCC>
+    <qresource prefix="/SplashScreen">
+        <file>Image/SplashScreen/background.png</file>
+    </qresource>
+    <qresource prefix="/MainWidget">
+        <file>Image/MainWidget/train1.png</file>
+        <file>Image/MainWidget/train2.png</file>
+        <file>Image/MainWidget/train3.png</file>
+        <file>Image/MainWidget/train4.png</file>
+        <file>Image/MainWidget/train5.png</file>
+        <file>Image/MainWidget/train6.png</file>
+        <file>Image/MainWidget/train7.png</file>
+        <file>Image/MainWidget/train8.png</file>
+        <file>Image/MainWidget/train9.png</file>
+        <file>Image/MainWidget/train10.png</file>
+        <file>Image/MainWidget/train11.png</file>
+        <file>Image/MainWidget/train12.png</file>
+        <file>Image/MainWidget/train13.png</file>
+        <file>Image/MainWidget/train14.png</file>
+        <file>Image/MainWidget/train15.png</file>
+        <file>Image/MainWidget/train16.png</file>
+        <file>Image/MainWidget/train17.png</file>
+        <file>Image/MainWidget/train18.png</file>
+    </qresource>
+    <qresource prefix="/Schematic">
+        <file>Image/Schematic/schematicdirectory.png</file>
+    </qresource>
+    <qresource prefix="/secondWidget">
+        <file>Image/secondWidget/abnormal_work2.png</file>
+        <file>Image/secondWidget/normal_work2.png</file>
+        <file>Image/secondWidget/no_work2.png</file>
+        <file>Image/secondWidget/abnormal_work1.png</file>
+        <file>Image/secondWidget/no_work1.png</file>
+        <file>Image/secondWidget/normal_work1.png</file>
+    </qresource>
+    <qresource prefix="/LadderDiagram">
+        <file>Image/LadderDiagram/01G.png</file>
+        <file>Image/LadderDiagram/01W.png</file>
+        <file>Image/LadderDiagram/02G.png</file>
+        <file>Image/LadderDiagram/02W.png</file>
+        <file>Image/LadderDiagram/03G.png</file>
+        <file>Image/LadderDiagram/03W.png</file>
+        <file>Image/LadderDiagram/05G.png</file>
+        <file>Image/LadderDiagram/05W.png</file>
+        <file>Image/LadderDiagram/06G.png</file>
+        <file>Image/LadderDiagram/06W.png</file>
+        <file>Image/LadderDiagram/07G.png</file>
+        <file>Image/LadderDiagram/07W.png</file>
+        <file>Image/LadderDiagram/08G.png</file>
+        <file>Image/LadderDiagram/08W.png</file>
+        <file>Image/LadderDiagram/09G.png</file>
+        <file>Image/LadderDiagram/09W.png</file>
+        <file>Image/LadderDiagram/10G.png</file>
+        <file>Image/LadderDiagram/10W.png</file>
+    </qresource>
+    <qresource prefix="/ComboBox">
+        <file>Image/ComboBox/down_arrow.png</file>
+    </qresource>
+    <qresource prefix="/ScrollBar">
+        <file>Image/Scrollbar/down-arrow.png</file>
+        <file>Image/Scrollbar/up-arrow.png</file>
+    </qresource>
+</RCC>

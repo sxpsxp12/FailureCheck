@@ -1,0 +1,184 @@
+09时13分04秒 : debug   >> 数据库连接成功!
+09时13分04秒 : debug   >> createDataBaseAllTables success!
+09时13分04秒 : debug   >> Can't Open Serial Port
+09时13分04秒 : debug   >> voicePlay Can't Open Serial Port
+09时13分04秒 : debug   >> socket open success
+09时13分12秒 : debug   >> 主从机判断失败
+09时13分12秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分12秒 : debug   >> writeCanHandshake false
+09时13分12秒 : debug   >> readCanHandshake false
+09时13分13秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分13秒 : debug   >> writeCanHandshake false
+09时13分13秒 : debug   >> readCanHandshake false
+09时13分13秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分13秒 : debug   >> writeCanHandshake false
+09时13分13秒 : debug   >> readCanHandshake false
+09时13分14秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分14秒 : debug   >> writeCanHandshake false
+09时13分14秒 : debug   >> readCanHandshake false
+09时13分14秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分14秒 : debug   >> writeCanHandshake false
+09时13分14秒 : debug   >> readCanHandshake false
+09时13分15秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分15秒 : debug   >> writeCanHandshake false
+09时13分15秒 : debug   >> readCanHandshake false
+09时13分15秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分15秒 : debug   >> writeCanHandshake false
+09时13分15秒 : debug   >> readCanHandshake false
+09时13分16秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分16秒 : debug   >> writeCanHandshake false
+09时13分16秒 : debug   >> readCanHandshake false
+09时13分16秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分16秒 : debug   >> writeCanHandshake false
+09时13分16秒 : debug   >> readCanHandshake false
+09时13分17秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分17秒 : debug   >> writeCanHandshake false
+09时13分17秒 : debug   >> readCanHandshake false
+09时13分17秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分17秒 : debug   >> writeCanHandshake false
+09时13分17秒 : debug   >> readCanHandshake false
+09时13分18秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分18秒 : debug   >> writeCanHandshake false
+09时13分18秒 : debug   >> readCanHandshake false
+09时13分18秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分18秒 : debug   >> writeCanHandshake false
+09时13分18秒 : debug   >> readCanHandshake false
+09时13分19秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分19秒 : debug   >> writeCanHandshake false
+09时13分19秒 : debug   >> readCanHandshake false
+09时13分19秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分19秒 : debug   >> writeCanHandshake false
+09时13分19秒 : debug   >> readCanHandshake false
+09时13分20秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分20秒 : debug   >> writeCanHandshake false
+09时13分20秒 : debug   >> readCanHandshake false
+09时13分20秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分20秒 : debug   >> writeCanHandshake false
+09时13分20秒 : debug   >> readCanHandshake false
+09时13分21秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分21秒 : debug   >> writeCanHandshake false
+09时13分21秒 : debug   >> readCanHandshake false
+09时13分21秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分21秒 : debug   >> writeCanHandshake false
+09时13分21秒 : debug   >> readCanHandshake false
+09时13分22秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分22秒 : debug   >> writeCanHandshake false
+09时13分22秒 : debug   >> readCanHandshake false
+09时13分22秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分22秒 : debug   >> writeCanHandshake false
+09时13分22秒 : debug   >> readCanHandshake false
+09时13分23秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分23秒 : debug   >> writeCanHandshake false
+09时13分23秒 : debug   >> readCanHandshake false
+09时13分23秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分23秒 : debug   >> writeCanHandshake false
+09时13分23秒 : debug   >> readCanHandshake false
+09时13分24秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分24秒 : debug   >> writeCanHandshake false
+09时13分24秒 : debug   >> readCanHandshake false
+09时13分24秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分24秒 : debug   >> writeCanHandshake false
+09时13分24秒 : debug   >> readCanHandshake false
+09时13分25秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分25秒 : debug   >> writeCanHandshake false
+09时13分25秒 : debug   >> readCanHandshake false
+09时13分25秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分25秒 : debug   >> writeCanHandshake false
+09时13分25秒 : debug   >> readCanHandshake false
+09时13分26秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分26秒 : debug   >> writeCanHandshake false
+09时13分26秒 : debug   >> readCanHandshake false
+09时13分26秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分26秒 : debug   >> writeCanHandshake false
+09时13分26秒 : debug   >> readCanHandshake false
+09时13分27秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分27秒 : debug   >> writeCanHandshake false
+09时13分27秒 : debug   >> readCanHandshake false
+09时13分27秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分27秒 : debug   >> writeCanHandshake false
+09时13分27秒 : debug   >> readCanHandshake false
+09时13分28秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分28秒 : debug   >> writeCanHandshake false
+09时13分28秒 : debug   >> readCanHandshake false
+09时13分28秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分28秒 : debug   >> writeCanHandshake false
+09时13分28秒 : debug   >> readCanHandshake false
+09时13分29秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分29秒 : debug   >> writeCanHandshake false
+09时13分29秒 : debug   >> readCanHandshake false
+09时13分29秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分29秒 : debug   >> writeCanHandshake false
+09时13分29秒 : debug   >> readCanHandshake false
+09时13分30秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分30秒 : debug   >> writeCanHandshake false
+09时13分30秒 : debug   >> readCanHandshake false
+09时13分30秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分30秒 : debug   >> writeCanHandshake false
+09时13分30秒 : debug   >> readCanHandshake false
+09时13分31秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分31秒 : debug   >> writeCanHandshake false
+09时13分31秒 : debug   >> readCanHandshake false
+09时13分31秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分31秒 : debug   >> writeCanHandshake false
+09时13分31秒 : debug   >> readCanHandshake false
+09时13分32秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分32秒 : debug   >> writeCanHandshake false
+09时13分32秒 : debug   >> readCanHandshake false
+09时13分32秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分32秒 : debug   >> writeCanHandshake false
+09时13分32秒 : debug   >> readCanHandshake false
+09时13分33秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分33秒 : debug   >> writeCanHandshake false
+09时13分33秒 : debug   >> readCanHandshake false
+09时13分33秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分33秒 : debug   >> writeCanHandshake false
+09时13分33秒 : debug   >> readCanHandshake false
+09时13分34秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分34秒 : debug   >> writeCanHandshake false
+09时13分34秒 : debug   >> readCanHandshake false
+09时13分34秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分34秒 : debug   >> writeCanHandshake false
+09时13分34秒 : debug   >> readCanHandshake false
+09时13分35秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分35秒 : debug   >> writeCanHandshake false
+09时13分35秒 : debug   >> readCanHandshake false
+09时13分35秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分35秒 : debug   >> writeCanHandshake false
+09时13分35秒 : debug   >> readCanHandshake false
+09时13分36秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分36秒 : debug   >> writeCanHandshake false
+09时13分36秒 : debug   >> readCanHandshake false
+09时13分36秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分36秒 : debug   >> writeCanHandshake false
+09时13分36秒 : debug   >> readCanHandshake false
+09时13分37秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分37秒 : debug   >> writeCanHandshake false
+09时13分37秒 : debug   >> readCanHandshake false
+09时13分37秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分37秒 : debug   >> writeCanHandshake false
+09时13分37秒 : debug   >> readCanHandshake false
+09时13分38秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分38秒 : debug   >> writeCanHandshake false
+09时13分38秒 : debug   >> readCanHandshake false
+09时13分38秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分38秒 : debug   >> writeCanHandshake false
+09时13分38秒 : debug   >> readCanHandshake false
+09时13分39秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分39秒 : debug   >> writeCanHandshake false
+09时13分39秒 : debug   >> readCanHandshake false
+09时13分39秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分39秒 : debug   >> writeCanHandshake false
+09时13分39秒 : debug   >> readCanHandshake false
+09时13分40秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分40秒 : debug   >> writeCanHandshake false
+09时13分40秒 : debug   >> readCanHandshake false
+09时13分40秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分40秒 : debug   >> writeCanHandshake false
+09时13分40秒 : debug   >> readCanHandshake false
+09时13分41秒 : debug   >>  writeCanHandshake Send Error frame!
+09时13分41秒 : debug   >> writeCanHandshake false
+09时13分41秒 : debug   >> readCanHandshake false
+09时14分10秒 : debug   >> 数据库连接成功!
+09时14分10秒 : debug   >> createDataBaseAllTables success!
+09时14分10秒 : debug   >> Can't Open Serial Port
+09时14分10秒 : debug   >> voicePlay Can't Open Serial Port

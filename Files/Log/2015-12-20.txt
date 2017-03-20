@@ -1,0 +1,1008 @@
+14时44分16秒 : debug   >> 数据库连接成功!
+14时44分16秒 : debug   >> createDataBaseAllTables success!
+14时44分16秒 : debug   >> socket open success
+14时44分25秒 : debug   >> can't open value file!
+14时44分25秒 : debug   >> 主从机判断失败
+14时44分25秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分25秒 : debug   >> writeCanHandshake false
+14时44分25秒 : debug   >> readCanHandshake false
+14时44分26秒 : debug   >> can't open value file!
+14时44分26秒 : debug   >> 主从机判断失败
+14时44分26秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分26秒 : debug   >> writeCanHandshake false
+14时44分26秒 : debug   >> readCanHandshake false
+14时44分26秒 : debug   >> can't open value file!
+14时44分26秒 : debug   >> 主从机判断失败
+14时44分26秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分26秒 : debug   >> writeCanHandshake false
+14时44分26秒 : debug   >> readCanHandshake false
+14时44分27秒 : debug   >> can't open value file!
+14时44分27秒 : debug   >> 主从机判断失败
+14时44分27秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分27秒 : debug   >> writeCanHandshake false
+14时44分27秒 : debug   >> readCanHandshake false
+14时44分27秒 : debug   >> can't open value file!
+14时44分27秒 : debug   >> 主从机判断失败
+14时44分27秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分27秒 : debug   >> writeCanHandshake false
+14时44分27秒 : debug   >> readCanHandshake false
+14时44分28秒 : debug   >> can't open value file!
+14时44分28秒 : debug   >> 主从机判断失败
+14时44分28秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分28秒 : debug   >> writeCanHandshake false
+14时44分28秒 : debug   >> readCanHandshake false
+14时44分28秒 : debug   >> can't open value file!
+14时44分28秒 : debug   >> 主从机判断失败
+14时44分28秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分28秒 : debug   >> writeCanHandshake false
+14时44分28秒 : debug   >> readCanHandshake false
+14时44分29秒 : debug   >> can't open value file!
+14时44分29秒 : debug   >> 主从机判断失败
+14时44分29秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分29秒 : debug   >> writeCanHandshake false
+14时44分29秒 : debug   >> readCanHandshake false
+14时44分29秒 : debug   >> can't open value file!
+14时44分29秒 : debug   >> 主从机判断失败
+14时44分29秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分29秒 : debug   >> writeCanHandshake false
+14时44分29秒 : debug   >> readCanHandshake false
+14时44分30秒 : debug   >> can't open value file!
+14时44分30秒 : debug   >> 主从机判断失败
+14时44分30秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分30秒 : debug   >> writeCanHandshake false
+14时44分30秒 : debug   >> readCanHandshake false
+14时44分30秒 : debug   >> can't open value file!
+14时44分30秒 : debug   >> 主从机判断失败
+14时44分30秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分30秒 : debug   >> writeCanHandshake false
+14时44分30秒 : debug   >> readCanHandshake false
+14时44分31秒 : debug   >> can't open value file!
+14时44分31秒 : debug   >> 主从机判断失败
+14时44分31秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分31秒 : debug   >> writeCanHandshake false
+14时44分31秒 : debug   >> readCanHandshake false
+14时44分31秒 : debug   >> can't open value file!
+14时44分31秒 : debug   >> 主从机判断失败
+14时44分31秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分31秒 : debug   >> writeCanHandshake false
+14时44分31秒 : debug   >> readCanHandshake false
+14时44分32秒 : debug   >> can't open value file!
+14时44分32秒 : debug   >> 主从机判断失败
+14时44分32秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分32秒 : debug   >> writeCanHandshake false
+14时44分32秒 : debug   >> readCanHandshake false
+14时44分32秒 : debug   >> can't open value file!
+14时44分32秒 : debug   >> 主从机判断失败
+14时44分32秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分32秒 : debug   >> writeCanHandshake false
+14时44分32秒 : debug   >> readCanHandshake false
+14时44分33秒 : debug   >> can't open value file!
+14时44分33秒 : debug   >> 主从机判断失败
+14时44分33秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分33秒 : debug   >> writeCanHandshake false
+14时44分33秒 : debug   >> readCanHandshake false
+14时44分33秒 : debug   >> can't open value file!
+14时44分33秒 : debug   >> 主从机判断失败
+14时44分33秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分33秒 : debug   >> writeCanHandshake false
+14时44分33秒 : debug   >> readCanHandshake false
+14时44分34秒 : debug   >> can't open value file!
+14时44分34秒 : debug   >> 主从机判断失败
+14时44分34秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分34秒 : debug   >> writeCanHandshake false
+14时44分34秒 : debug   >> readCanHandshake false
+14时44分34秒 : debug   >> can't open value file!
+14时44分34秒 : debug   >> 主从机判断失败
+14时44分34秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分34秒 : debug   >> writeCanHandshake false
+14时44分34秒 : debug   >> readCanHandshake false
+14时44分35秒 : debug   >> can't open value file!
+14时44分35秒 : debug   >> 主从机判断失败
+14时44分35秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分35秒 : debug   >> writeCanHandshake false
+14时44分35秒 : debug   >> readCanHandshake false
+14时44分35秒 : debug   >> can't open value file!
+14时44分35秒 : debug   >> 主从机判断失败
+14时44分35秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分35秒 : debug   >> writeCanHandshake false
+14时44分35秒 : debug   >> readCanHandshake false
+14时44分36秒 : debug   >> can't open value file!
+14时44分36秒 : debug   >> 主从机判断失败
+14时44分36秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分36秒 : debug   >> writeCanHandshake false
+14时44分36秒 : debug   >> readCanHandshake false
+14时44分36秒 : debug   >> can't open value file!
+14时44分36秒 : debug   >> 主从机判断失败
+14时44分36秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分36秒 : debug   >> writeCanHandshake false
+14时44分36秒 : debug   >> readCanHandshake false
+14时44分37秒 : debug   >> can't open value file!
+14时44分37秒 : debug   >> 主从机判断失败
+14时44分37秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分37秒 : debug   >> writeCanHandshake false
+14时44分37秒 : debug   >> readCanHandshake false
+14时44分37秒 : debug   >> can't open value file!
+14时44分37秒 : debug   >> 主从机判断失败
+14时44分37秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分37秒 : debug   >> writeCanHandshake false
+14时44分37秒 : debug   >> readCanHandshake false
+14时44分38秒 : debug   >> can't open value file!
+14时44分38秒 : debug   >> 主从机判断失败
+14时44分38秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分38秒 : debug   >> writeCanHandshake false
+14时44分38秒 : debug   >> readCanHandshake false
+14时44分38秒 : debug   >> can't open value file!
+14时44分38秒 : debug   >> 主从机判断失败
+14时44分38秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分38秒 : debug   >> writeCanHandshake false
+14时44分38秒 : debug   >> readCanHandshake false
+14时44分39秒 : debug   >> can't open value file!
+14时44分39秒 : debug   >> 主从机判断失败
+14时44分39秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分39秒 : debug   >> writeCanHandshake false
+14时44分39秒 : debug   >> readCanHandshake false
+14时44分39秒 : debug   >> can't open value file!
+14时44分39秒 : debug   >> 主从机判断失败
+14时44分39秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分39秒 : debug   >> writeCanHandshake false
+14时44分39秒 : debug   >> readCanHandshake false
+14时44分40秒 : debug   >> can't open value file!
+14时44分40秒 : debug   >> 主从机判断失败
+14时44分40秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分40秒 : debug   >> writeCanHandshake false
+14时44分40秒 : debug   >> readCanHandshake false
+14时44分40秒 : debug   >> can't open value file!
+14时44分40秒 : debug   >> 主从机判断失败
+14时44分40秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分40秒 : debug   >> writeCanHandshake false
+14时44分40秒 : debug   >> readCanHandshake false
+14时44分41秒 : debug   >> can't open value file!
+14时44分41秒 : debug   >> 主从机判断失败
+14时44分41秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分41秒 : debug   >> writeCanHandshake false
+14时44分41秒 : debug   >> readCanHandshake false
+14时44分41秒 : debug   >> can't open value file!
+14时44分41秒 : debug   >> 主从机判断失败
+14时44分41秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分41秒 : debug   >> writeCanHandshake false
+14时44分41秒 : debug   >> readCanHandshake false
+14时44分42秒 : debug   >> can't open value file!
+14时44分42秒 : debug   >> 主从机判断失败
+14时44分42秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分42秒 : debug   >> writeCanHandshake false
+14时44分42秒 : debug   >> readCanHandshake false
+14时44分42秒 : debug   >> can't open value file!
+14时44分42秒 : debug   >> 主从机判断失败
+14时44分42秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分42秒 : debug   >> writeCanHandshake false
+14时44分42秒 : debug   >> readCanHandshake false
+14时44分43秒 : debug   >> can't open value file!
+14时44分43秒 : debug   >> 主从机判断失败
+14时44分43秒 : debug   >>  writeCanHandshake Send Error frame!
+14时44分43秒 : debug   >> writeCanHandshake false
+14时44分43秒 : debug   >> readCanHandshake false
+14时45分29秒 : debug   >> 数据库连接成功!
+14时45分29秒 : debug   >> createDataBaseAllTables success!
+14时45分29秒 : debug   >> socket open success
+14时45分38秒 : debug   >> can't open value file!
+14时45分38秒 : debug   >> 主从机判断失败
+14时45分38秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分38秒 : debug   >> writeCanHandshake false
+14时45分38秒 : debug   >> readCanHandshake false
+14时45分38秒 : debug   >> can't open value file!
+14时45分38秒 : debug   >> 主从机判断失败
+14时45分38秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分38秒 : debug   >> writeCanHandshake false
+14时45分38秒 : debug   >> readCanHandshake false
+14时45分39秒 : debug   >> can't open value file!
+14时45分39秒 : debug   >> 主从机判断失败
+14时45分39秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分39秒 : debug   >> writeCanHandshake false
+14时45分39秒 : debug   >> readCanHandshake false
+14时45分39秒 : debug   >> can't open value file!
+14时45分39秒 : debug   >> 主从机判断失败
+14时45分39秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分39秒 : debug   >> writeCanHandshake false
+14时45分39秒 : debug   >> readCanHandshake false
+14时45分40秒 : debug   >> can't open value file!
+14时45分40秒 : debug   >> 主从机判断失败
+14时45分40秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分40秒 : debug   >> writeCanHandshake false
+14时45分40秒 : debug   >> readCanHandshake false
+14时45分40秒 : debug   >> can't open value file!
+14时45分40秒 : debug   >> 主从机判断失败
+14时45分40秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分40秒 : debug   >> writeCanHandshake false
+14时45分40秒 : debug   >> readCanHandshake false
+14时45分41秒 : debug   >> can't open value file!
+14时45分41秒 : debug   >> 主从机判断失败
+14时45分41秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分41秒 : debug   >> writeCanHandshake false
+14时45分41秒 : debug   >> readCanHandshake false
+14时45分41秒 : debug   >> can't open value file!
+14时45分41秒 : debug   >> 主从机判断失败
+14时45分41秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分41秒 : debug   >> writeCanHandshake false
+14时45分41秒 : debug   >> readCanHandshake false
+14时45分42秒 : debug   >> can't open value file!
+14时45分42秒 : debug   >> 主从机判断失败
+14时45分42秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分42秒 : debug   >> writeCanHandshake false
+14时45分42秒 : debug   >> readCanHandshake false
+14时45分42秒 : debug   >> can't open value file!
+14时45分42秒 : debug   >> 主从机判断失败
+14时45分42秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分42秒 : debug   >> writeCanHandshake false
+14时45分42秒 : debug   >> readCanHandshake false
+14时45分43秒 : debug   >> can't open value file!
+14时45分43秒 : debug   >> 主从机判断失败
+14时45分43秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分43秒 : debug   >> writeCanHandshake false
+14时45分43秒 : debug   >> readCanHandshake false
+14时45分43秒 : debug   >> can't open value file!
+14时45分43秒 : debug   >> 主从机判断失败
+14时45分43秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分43秒 : debug   >> writeCanHandshake false
+14时45分43秒 : debug   >> readCanHandshake false
+14时45分44秒 : debug   >> can't open value file!
+14时45分44秒 : debug   >> 主从机判断失败
+14时45分44秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分44秒 : debug   >> writeCanHandshake false
+14时45分44秒 : debug   >> readCanHandshake false
+14时45分44秒 : debug   >> can't open value file!
+14时45分44秒 : debug   >> 主从机判断失败
+14时45分44秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分44秒 : debug   >> writeCanHandshake false
+14时45分44秒 : debug   >> readCanHandshake false
+14时45分45秒 : debug   >> can't open value file!
+14时45分45秒 : debug   >> 主从机判断失败
+14时45分45秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分45秒 : debug   >> writeCanHandshake false
+14时45分45秒 : debug   >> readCanHandshake false
+14时45分45秒 : debug   >> can't open value file!
+14时45分45秒 : debug   >> 主从机判断失败
+14时45分45秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分45秒 : debug   >> writeCanHandshake false
+14时45分45秒 : debug   >> readCanHandshake false
+14时45分46秒 : debug   >> can't open value file!
+14时45分46秒 : debug   >> 主从机判断失败
+14时45分46秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分46秒 : debug   >> writeCanHandshake false
+14时45分46秒 : debug   >> readCanHandshake false
+14时45分46秒 : debug   >> can't open value file!
+14时45分46秒 : debug   >> 主从机判断失败
+14时45分46秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分46秒 : debug   >> writeCanHandshake false
+14时45分46秒 : debug   >> readCanHandshake false
+14时45分47秒 : debug   >> can't open value file!
+14时45分47秒 : debug   >> 主从机判断失败
+14时45分47秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分47秒 : debug   >> writeCanHandshake false
+14时45分47秒 : debug   >> readCanHandshake false
+14时45分47秒 : debug   >> can't open value file!
+14时45分47秒 : debug   >> 主从机判断失败
+14时45分47秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分47秒 : debug   >> writeCanHandshake false
+14时45分47秒 : debug   >> readCanHandshake false
+14时45分48秒 : debug   >> can't open value file!
+14时45分48秒 : debug   >> 主从机判断失败
+14时45分48秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分48秒 : debug   >> writeCanHandshake false
+14时45分48秒 : debug   >> readCanHandshake false
+14时45分48秒 : debug   >> can't open value file!
+14时45分48秒 : debug   >> 主从机判断失败
+14时45分48秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分48秒 : debug   >> writeCanHandshake false
+14时45分48秒 : debug   >> readCanHandshake false
+14时45分49秒 : debug   >> can't open value file!
+14时45分49秒 : debug   >> 主从机判断失败
+14时45分49秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分49秒 : debug   >> writeCanHandshake false
+14时45分49秒 : debug   >> readCanHandshake false
+14时45分49秒 : debug   >> can't open value file!
+14时45分49秒 : debug   >> 主从机判断失败
+14时45分49秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分49秒 : debug   >> writeCanHandshake false
+14时45分49秒 : debug   >> readCanHandshake false
+14时45分50秒 : debug   >> can't open value file!
+14时45分50秒 : debug   >> 主从机判断失败
+14时45分50秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分50秒 : debug   >> writeCanHandshake false
+14时45分50秒 : debug   >> readCanHandshake false
+14时45分50秒 : debug   >> can't open value file!
+14时45分50秒 : debug   >> 主从机判断失败
+14时45分50秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分50秒 : debug   >> writeCanHandshake false
+14时45分50秒 : debug   >> readCanHandshake false
+14时45分51秒 : debug   >> can't open value file!
+14时45分51秒 : debug   >> 主从机判断失败
+14时45分51秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分51秒 : debug   >> writeCanHandshake false
+14时45分51秒 : debug   >> readCanHandshake false
+14时45分51秒 : debug   >> can't open value file!
+14时45分51秒 : debug   >> 主从机判断失败
+14时45分51秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分51秒 : debug   >> writeCanHandshake false
+14时45分51秒 : debug   >> readCanHandshake false
+14时45分52秒 : debug   >> can't open value file!
+14时45分52秒 : debug   >> 主从机判断失败
+14时45分52秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分52秒 : debug   >> writeCanHandshake false
+14时45分52秒 : debug   >> readCanHandshake false
+14时45分52秒 : debug   >> can't open value file!
+14时45分52秒 : debug   >> 主从机判断失败
+14时45分52秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分52秒 : debug   >> writeCanHandshake false
+14时45分52秒 : debug   >> readCanHandshake false
+14时45分53秒 : debug   >> can't open value file!
+14时45分53秒 : debug   >> 主从机判断失败
+14时45分53秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分53秒 : debug   >> writeCanHandshake false
+14时45分53秒 : debug   >> readCanHandshake false
+14时45分53秒 : debug   >> can't open value file!
+14时45分53秒 : debug   >> 主从机判断失败
+14时45分53秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分53秒 : debug   >> writeCanHandshake false
+14时45分53秒 : debug   >> readCanHandshake false
+14时45分54秒 : debug   >> can't open value file!
+14时45分54秒 : debug   >> 主从机判断失败
+14时45分54秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分54秒 : debug   >> writeCanHandshake false
+14时45分54秒 : debug   >> readCanHandshake false
+14时45分54秒 : debug   >> can't open value file!
+14时45分54秒 : debug   >> 主从机判断失败
+14时45分54秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分54秒 : debug   >> writeCanHandshake false
+14时45分54秒 : debug   >> readCanHandshake false
+14时45分55秒 : debug   >> can't open value file!
+14时45分55秒 : debug   >> 主从机判断失败
+14时45分55秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分55秒 : debug   >> writeCanHandshake false
+14时45分55秒 : debug   >> readCanHandshake false
+14时45分55秒 : debug   >> can't open value file!
+14时45分55秒 : debug   >> 主从机判断失败
+14时45分55秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分55秒 : debug   >> writeCanHandshake false
+14时45分55秒 : debug   >> readCanHandshake false
+14时45分56秒 : debug   >> can't open value file!
+14时45分56秒 : debug   >> 主从机判断失败
+14时45分56秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分56秒 : debug   >> writeCanHandshake false
+14时45分56秒 : debug   >> readCanHandshake false
+14时45分56秒 : debug   >> can't open value file!
+14时45分56秒 : debug   >> 主从机判断失败
+14时45分56秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分56秒 : debug   >> writeCanHandshake false
+14时45分56秒 : debug   >> readCanHandshake false
+14时45分57秒 : debug   >> can't open value file!
+14时45分57秒 : debug   >> 主从机判断失败
+14时45分57秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分57秒 : debug   >> writeCanHandshake false
+14时45分57秒 : debug   >> readCanHandshake false
+14时45分57秒 : debug   >> can't open value file!
+14时45分57秒 : debug   >> 主从机判断失败
+14时45分57秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分57秒 : debug   >> writeCanHandshake false
+14时45分57秒 : debug   >> readCanHandshake false
+14时45分58秒 : debug   >> can't open value file!
+14时45分58秒 : debug   >> 主从机判断失败
+14时45分58秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分58秒 : debug   >> writeCanHandshake false
+14时45分58秒 : debug   >> readCanHandshake false
+14时45分58秒 : debug   >> can't open value file!
+14时45分58秒 : debug   >> 主从机判断失败
+14时45分58秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分58秒 : debug   >> writeCanHandshake false
+14时45分58秒 : debug   >> readCanHandshake false
+14时45分59秒 : debug   >> can't open value file!
+14时45分59秒 : debug   >> 主从机判断失败
+14时45分59秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分59秒 : debug   >> writeCanHandshake false
+14时45分59秒 : debug   >> readCanHandshake false
+14时45分59秒 : debug   >> can't open value file!
+14时45分59秒 : debug   >> 主从机判断失败
+14时45分59秒 : debug   >>  writeCanHandshake Send Error frame!
+14时45分59秒 : debug   >> writeCanHandshake false
+14时45分59秒 : debug   >> readCanHandshake false
+14时46分00秒 : debug   >> can't open value file!
+14时46分00秒 : debug   >> 主从机判断失败
+14时46分00秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分00秒 : debug   >> writeCanHandshake false
+14时46分00秒 : debug   >> readCanHandshake false
+14时46分00秒 : debug   >> can't open value file!
+14时46分00秒 : debug   >> 主从机判断失败
+14时46分00秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分00秒 : debug   >> writeCanHandshake false
+14时46分00秒 : debug   >> readCanHandshake false
+14时46分01秒 : debug   >> can't open value file!
+14时46分01秒 : debug   >> 主从机判断失败
+14时46分01秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分01秒 : debug   >> writeCanHandshake false
+14时46分01秒 : debug   >> readCanHandshake false
+14时46分01秒 : debug   >> can't open value file!
+14时46分01秒 : debug   >> 主从机判断失败
+14时46分01秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分01秒 : debug   >> writeCanHandshake false
+14时46分01秒 : debug   >> readCanHandshake false
+14时46分02秒 : debug   >> can't open value file!
+14时46分02秒 : debug   >> 主从机判断失败
+14时46分02秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分02秒 : debug   >> writeCanHandshake false
+14时46分02秒 : debug   >> readCanHandshake false
+14时46分02秒 : debug   >> can't open value file!
+14时46分02秒 : debug   >> 主从机判断失败
+14时46分02秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分02秒 : debug   >> writeCanHandshake false
+14时46分02秒 : debug   >> readCanHandshake false
+14时46分03秒 : debug   >> can't open value file!
+14时46分03秒 : debug   >> 主从机判断失败
+14时46分03秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分03秒 : debug   >> writeCanHandshake false
+14时46分03秒 : debug   >> readCanHandshake false
+14时46分03秒 : debug   >> can't open value file!
+14时46分03秒 : debug   >> 主从机判断失败
+14时46分03秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分03秒 : debug   >> writeCanHandshake false
+14时46分03秒 : debug   >> readCanHandshake false
+14时46分04秒 : debug   >> can't open value file!
+14时46分04秒 : debug   >> 主从机判断失败
+14时46分04秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分04秒 : debug   >> writeCanHandshake false
+14时46分04秒 : debug   >> readCanHandshake false
+14时46分04秒 : debug   >> can't open value file!
+14时46分04秒 : debug   >> 主从机判断失败
+14时46分04秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分04秒 : debug   >> writeCanHandshake false
+14时46分04秒 : debug   >> readCanHandshake false
+14时46分05秒 : debug   >> can't open value file!
+14时46分05秒 : debug   >> 主从机判断失败
+14时46分05秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分05秒 : debug   >> writeCanHandshake false
+14时46分05秒 : debug   >> readCanHandshake false
+14时46分05秒 : debug   >> can't open value file!
+14时46分05秒 : debug   >> 主从机判断失败
+14时46分05秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分05秒 : debug   >> writeCanHandshake false
+14时46分05秒 : debug   >> readCanHandshake false
+14时46分06秒 : debug   >> can't open value file!
+14时46分06秒 : debug   >> 主从机判断失败
+14时46分06秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分06秒 : debug   >> writeCanHandshake false
+14时46分06秒 : debug   >> readCanHandshake false
+14时46分06秒 : debug   >> can't open value file!
+14时46分06秒 : debug   >> 主从机判断失败
+14时46分06秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分06秒 : debug   >> writeCanHandshake false
+14时46分06秒 : debug   >> readCanHandshake false
+14时46分07秒 : debug   >> can't open value file!
+14时46分07秒 : debug   >> 主从机判断失败
+14时46分07秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分07秒 : debug   >> writeCanHandshake false
+14时46分07秒 : debug   >> readCanHandshake false
+14时46分07秒 : debug   >> can't open value file!
+14时46分07秒 : debug   >> 主从机判断失败
+14时46分07秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分07秒 : debug   >> writeCanHandshake false
+14时46分07秒 : debug   >> readCanHandshake false
+14时46分08秒 : debug   >> can't open value file!
+14时46分08秒 : debug   >> 主从机判断失败
+14时46分08秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分08秒 : debug   >> writeCanHandshake false
+14时46分08秒 : debug   >> readCanHandshake false
+14时46分08秒 : debug   >> can't open value file!
+14时46分08秒 : debug   >> 主从机判断失败
+14时46分08秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分08秒 : debug   >> writeCanHandshake false
+14时46分08秒 : debug   >> readCanHandshake false
+14时46分09秒 : debug   >> can't open value file!
+14时46分09秒 : debug   >> 主从机判断失败
+14时46分09秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分09秒 : debug   >> writeCanHandshake false
+14时46分09秒 : debug   >> readCanHandshake false
+14时46分09秒 : debug   >> can't open value file!
+14时46分09秒 : debug   >> 主从机判断失败
+14时46分09秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分09秒 : debug   >> writeCanHandshake false
+14时46分09秒 : debug   >> readCanHandshake false
+14时46分10秒 : debug   >> can't open value file!
+14时46分10秒 : debug   >> 主从机判断失败
+14时46分10秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分10秒 : debug   >> writeCanHandshake false
+14时46分10秒 : debug   >> readCanHandshake false
+14时46分10秒 : debug   >> can't open value file!
+14时46分10秒 : debug   >> 主从机判断失败
+14时46分10秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分10秒 : debug   >> writeCanHandshake false
+14时46分10秒 : debug   >> readCanHandshake false
+14时46分11秒 : debug   >> can't open value file!
+14时46分11秒 : debug   >> 主从机判断失败
+14时46分11秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分11秒 : debug   >> writeCanHandshake false
+14时46分11秒 : debug   >> readCanHandshake false
+14时46分11秒 : debug   >> can't open value file!
+14时46分11秒 : debug   >> 主从机判断失败
+14时46分11秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分11秒 : debug   >> writeCanHandshake false
+14时46分11秒 : debug   >> readCanHandshake false
+14时46分12秒 : debug   >> can't open value file!
+14时46分12秒 : debug   >> 主从机判断失败
+14时46分12秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分12秒 : debug   >> writeCanHandshake false
+14时46分12秒 : debug   >> readCanHandshake false
+14时46分12秒 : debug   >> can't open value file!
+14时46分12秒 : debug   >> 主从机判断失败
+14时46分12秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分12秒 : debug   >> writeCanHandshake false
+14时46分12秒 : debug   >> readCanHandshake false
+14时46分13秒 : debug   >> can't open value file!
+14时46分13秒 : debug   >> 主从机判断失败
+14时46分13秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分13秒 : debug   >> writeCanHandshake false
+14时46分13秒 : debug   >> readCanHandshake false
+14时46分13秒 : debug   >> can't open value file!
+14时46分13秒 : debug   >> 主从机判断失败
+14时46分13秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分13秒 : debug   >> writeCanHandshake false
+14时46分13秒 : debug   >> readCanHandshake false
+14时46分14秒 : debug   >> can't open value file!
+14时46分14秒 : debug   >> 主从机判断失败
+14时46分14秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分14秒 : debug   >> writeCanHandshake false
+14时46分14秒 : debug   >> readCanHandshake false
+14时46分14秒 : debug   >> can't open value file!
+14时46分14秒 : debug   >> 主从机判断失败
+14时46分14秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分14秒 : debug   >> writeCanHandshake false
+14时46分14秒 : debug   >> readCanHandshake false
+14时46分15秒 : debug   >> can't open value file!
+14时46分15秒 : debug   >> 主从机判断失败
+14时46分15秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分15秒 : debug   >> writeCanHandshake false
+14时46分15秒 : debug   >> readCanHandshake false
+14时46分15秒 : debug   >> can't open value file!
+14时46分15秒 : debug   >> 主从机判断失败
+14时46分15秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分15秒 : debug   >> writeCanHandshake false
+14时46分15秒 : debug   >> readCanHandshake false
+14时46分16秒 : debug   >> can't open value file!
+14时46分16秒 : debug   >> 主从机判断失败
+14时46分16秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分16秒 : debug   >> writeCanHandshake false
+14时46分16秒 : debug   >> readCanHandshake false
+14时46分16秒 : debug   >> can't open value file!
+14时46分16秒 : debug   >> 主从机判断失败
+14时46分16秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分16秒 : debug   >> writeCanHandshake false
+14时46分16秒 : debug   >> readCanHandshake false
+14时46分17秒 : debug   >> can't open value file!
+14时46分17秒 : debug   >> 主从机判断失败
+14时46分17秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分17秒 : debug   >> writeCanHandshake false
+14时46分17秒 : debug   >> readCanHandshake false
+14时46分17秒 : debug   >> can't open value file!
+14时46分17秒 : debug   >> 主从机判断失败
+14时46分17秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分17秒 : debug   >> writeCanHandshake false
+14时46分17秒 : debug   >> readCanHandshake false
+14时46分18秒 : debug   >> can't open value file!
+14时46分18秒 : debug   >> 主从机判断失败
+14时46分18秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分18秒 : debug   >> writeCanHandshake false
+14时46分18秒 : debug   >> readCanHandshake false
+14时46分18秒 : debug   >> can't open value file!
+14时46分18秒 : debug   >> 主从机判断失败
+14时46分18秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分18秒 : debug   >> writeCanHandshake false
+14时46分18秒 : debug   >> readCanHandshake false
+14时46分19秒 : debug   >> can't open value file!
+14时46分19秒 : debug   >> 主从机判断失败
+14时46分19秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分19秒 : debug   >> writeCanHandshake false
+14时46分19秒 : debug   >> readCanHandshake false
+14时46分19秒 : debug   >> can't open value file!
+14时46分19秒 : debug   >> 主从机判断失败
+14时46分19秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分19秒 : debug   >> writeCanHandshake false
+14时46分19秒 : debug   >> readCanHandshake false
+14时46分20秒 : debug   >> can't open value file!
+14时46分20秒 : debug   >> 主从机判断失败
+14时46分20秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分20秒 : debug   >> writeCanHandshake false
+14时46分20秒 : debug   >> readCanHandshake false
+14时46分20秒 : debug   >> can't open value file!
+14时46分20秒 : debug   >> 主从机判断失败
+14时46分20秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分20秒 : debug   >> writeCanHandshake false
+14时46分20秒 : debug   >> readCanHandshake false
+14时46分21秒 : debug   >> can't open value file!
+14时46分21秒 : debug   >> 主从机判断失败
+14时46分21秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分21秒 : debug   >> writeCanHandshake false
+14时46分21秒 : debug   >> readCanHandshake false
+14时46分21秒 : debug   >> can't open value file!
+14时46分21秒 : debug   >> 主从机判断失败
+14时46分21秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分21秒 : debug   >> writeCanHandshake false
+14时46分21秒 : debug   >> readCanHandshake false
+14时46分22秒 : debug   >> can't open value file!
+14时46分22秒 : debug   >> 主从机判断失败
+14时46分22秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分22秒 : debug   >> writeCanHandshake false
+14时46分22秒 : debug   >> readCanHandshake false
+14时46分22秒 : debug   >> can't open value file!
+14时46分22秒 : debug   >> 主从机判断失败
+14时46分22秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分22秒 : debug   >> writeCanHandshake false
+14时46分22秒 : debug   >> readCanHandshake false
+14时46分23秒 : debug   >> can't open value file!
+14时46分23秒 : debug   >> 主从机判断失败
+14时46分23秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分23秒 : debug   >> writeCanHandshake false
+14时46分23秒 : debug   >> readCanHandshake false
+14时46分23秒 : debug   >> can't open value file!
+14时46分23秒 : debug   >> 主从机判断失败
+14时46分23秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分23秒 : debug   >> writeCanHandshake false
+14时46分23秒 : debug   >> readCanHandshake false
+14时46分24秒 : debug   >> can't open value file!
+14时46分24秒 : debug   >> 主从机判断失败
+14时46分24秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分24秒 : debug   >> writeCanHandshake false
+14时46分24秒 : debug   >> readCanHandshake false
+14时46分24秒 : debug   >> can't open value file!
+14时46分24秒 : debug   >> 主从机判断失败
+14时46分24秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分24秒 : debug   >> writeCanHandshake false
+14时46分24秒 : debug   >> readCanHandshake false
+14时46分25秒 : debug   >> can't open value file!
+14时46分25秒 : debug   >> 主从机判断失败
+14时46分25秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分25秒 : debug   >> writeCanHandshake false
+14时46分25秒 : debug   >> readCanHandshake false
+14时46分25秒 : debug   >> can't open value file!
+14时46分25秒 : debug   >> 主从机判断失败
+14时46分25秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分25秒 : debug   >> writeCanHandshake false
+14时46分25秒 : debug   >> readCanHandshake false
+14时46分26秒 : debug   >> can't open value file!
+14时46分26秒 : debug   >> 主从机判断失败
+14时46分26秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分26秒 : debug   >> writeCanHandshake false
+14时46分26秒 : debug   >> readCanHandshake false
+14时46分26秒 : debug   >> can't open value file!
+14时46分26秒 : debug   >> 主从机判断失败
+14时46分26秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分26秒 : debug   >> writeCanHandshake false
+14时46分26秒 : debug   >> readCanHandshake false
+14时46分27秒 : debug   >> can't open value file!
+14时46分27秒 : debug   >> 主从机判断失败
+14时46分27秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分27秒 : debug   >> writeCanHandshake false
+14时46分27秒 : debug   >> readCanHandshake false
+14时46分27秒 : debug   >> can't open value file!
+14时46分27秒 : debug   >> 主从机判断失败
+14时46分27秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分27秒 : debug   >> writeCanHandshake false
+14时46分27秒 : debug   >> readCanHandshake false
+14时46分28秒 : debug   >> can't open value file!
+14时46分28秒 : debug   >> 主从机判断失败
+14时46分28秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分28秒 : debug   >> writeCanHandshake false
+14时46分28秒 : debug   >> readCanHandshake false
+14时46分28秒 : debug   >> can't open value file!
+14时46分28秒 : debug   >> 主从机判断失败
+14时46分28秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分28秒 : debug   >> writeCanHandshake false
+14时46分28秒 : debug   >> readCanHandshake false
+14时46分29秒 : debug   >> can't open value file!
+14时46分29秒 : debug   >> 主从机判断失败
+14时46分29秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分29秒 : debug   >> writeCanHandshake false
+14时46分29秒 : debug   >> readCanHandshake false
+14时46分29秒 : debug   >> can't open value file!
+14时46分29秒 : debug   >> 主从机判断失败
+14时46分29秒 : debug   >>  writeCanHandshake Send Error frame!
+14时46分29秒 : debug   >> writeCanHandshake false
+14时46分29秒 : debug   >> readCanHandshake false
+14时47分00秒 : debug   >> 数据库连接成功!
+14时47分00秒 : debug   >> createDataBaseAllTables success!
+14时47分00秒 : debug   >> socket open success
+14时47分10秒 : debug   >> can't open value file!
+14时47分10秒 : debug   >> 主从机判断失败
+14时47分10秒 : debug   >>  writeCanHandshake Send Error frame!
+14时47分10秒 : debug   >> writeCanHandshake false
+14时47分10秒 : debug   >> readCanHandshake false
+14时47分11秒 : debug   >> can't open value file!
+14时47分11秒 : debug   >> 主从机判断失败
+14时47分11秒 : debug   >>  writeCanHandshake Send Error frame!
+14时47分11秒 : debug   >> writeCanHandshake false
+14时47分11秒 : debug   >> readCanHandshake false
+14时47分11秒 : debug   >> can't open value file!
+14时47分11秒 : debug   >> 主从机判断失败
+14时47分11秒 : debug   >>  writeCanHandshake Send Error frame!
+14时47分11秒 : debug   >> writeCanHandshake false
+14时47分11秒 : debug   >> readCanHandshake false
+14时47分12秒 : debug   >> can't open value file!
+14时47分12秒 : debug   >> 主从机判断失败
+14时47分12秒 : debug   >>  writeCanHandshake Send Error frame!
+14时47分12秒 : debug   >> writeCanHandshake false
+14时47分12秒 : debug   >> readCanHandshake false
+14时47分12秒 : debug   >> can't open value file!
+14时47分12秒 : debug   >> 主从机判断失败
+14时47分12秒 : debug   >>  writeCanHandshake Send Error frame!
+14时47分12秒 : debug   >> writeCanHandshake false
+14时47分12秒 : debug   >> readCanHandshake false
+14时47分13秒 : debug   >> can't open value file!
+14时47分13秒 : debug   >> 主从机判断失败
+14时47分13秒 : debug   >>  writeCanHandshake Send Error frame!
+14时47分13秒 : debug   >> writeCanHandshake false
+14时47分13秒 : debug   >> readCanHandshake false
+14时47分13秒 : debug   >> can't open value file!
+14时47分13秒 : debug   >> 主从机判断失败
+14时47分13秒 : debug   >>  writeCanHandshake Send Error frame!
+14时47分13秒 : debug   >> writeCanHandshake false
+14时47分13秒 : debug   >> readCanHandshake false
+14时47分14秒 : debug   >> can't open value file!
+14时47分14秒 : debug   >> 主从机判断失败
+14时47分14秒 : debug   >>  writeCanHandshake Send Error frame!
+14时47分14秒 : debug   >> writeCanHandshake false
+14时47分14秒 : debug   >> readCanHandshake false
+14时47分14秒 : debug   >> can't open value file!
+14时47分14秒 : debug   >> 主从机判断失败
+14时47分14秒 : debug   >>  writeCanHandshake Send Error frame!
+14时47分14秒 : debug   >> writeCanHandshake false
+14时47分14秒 : debug   >> readCanHandshake false
+14时47分15秒 : debug   >> can't open value file!
+14时47分15秒 : debug   >> 主从机判断失败
+14时47分15秒 : debug   >>  writeCanHandshake Send Error frame!
+14时47分15秒 : debug   >> writeCanHandshake false
+14时47分15秒 : debug   >> readCanHandshake false
+14时47分15秒 : debug   >> can't open value file!
+14时47分15秒 : debug   >> 主从机判断失败
+14时47分15秒 : debug   >>  writeCanHandshake Send Error frame!
+14时47分15秒 : debug   >> writeCanHandshake false
+14时47分15秒 : debug   >> readCanHandshake false
+14时47分16秒 : debug   >> can't open value file!
+14时47分16秒 : debug   >> 主从机判断失败
+14时47分16秒 : debug   >>  writeCanHandshake Send Error frame!
+14时47分16秒 : debug   >> writeCanHandshake false
+14时47分16秒 : debug   >> readCanHandshake false
+14时47分16秒 : debug   >> can't open value file!
+14时47分16秒 : debug   >> 主从机判断失败
+14时47分16秒 : debug   >>  writeCanHandshake Send Error frame!
+14时47分16秒 : debug   >> writeCanHandshake false
+14时47分16秒 : debug   >> readCanHandshake false
+14时47分17秒 : debug   >> can't open value file!
+14时47分17秒 : debug   >> 主从机判断失败
+14时47分17秒 : debug   >>  writeCanHandshake Send Error frame!
+14时47分17秒 : debug   >> writeCanHandshake false
+14时47分17秒 : debug   >> readCanHandshake false
+14时48分06秒 : debug   >> 数据库连接成功!
+14时48分06秒 : debug   >> createDataBaseAllTables success!
+14时48分06秒 : debug   >> socket open success
+14时48分15秒 : debug   >> can't open value file!
+14时48分15秒 : debug   >> 主从机判断失败
+14时48分15秒 : debug   >>  writeCanHandshake Send Error frame!
+14时48分15秒 : debug   >> writeCanHandshake false
+14时48分15秒 : debug   >> readCanHandshake false
+14时48分15秒 : debug   >> can't open value file!
+14时48分15秒 : debug   >> 主从机判断失败
+14时48分15秒 : debug   >>  writeCanHandshake Send Error frame!
+14时48分15秒 : debug   >> writeCanHandshake false
+14时48分15秒 : debug   >> readCanHandshake false
+14时48分16秒 : debug   >> can't open value file!
+14时48分16秒 : debug   >> 主从机判断失败
+14时48分16秒 : debug   >>  writeCanHandshake Send Error frame!
+14时48分16秒 : debug   >> writeCanHandshake false
+14时48分16秒 : debug   >> readCanHandshake false
+14时48分16秒 : debug   >> can't open value file!
+14时48分16秒 : debug   >> 主从机判断失败
+14时48分16秒 : debug   >>  writeCanHandshake Send Error frame!
+14时48分16秒 : debug   >> writeCanHandshake false
+14时48分16秒 : debug   >> readCanHandshake false
+14时48分17秒 : debug   >> can't open value file!
+14时48分17秒 : debug   >> 主从机判断失败
+14时48分17秒 : debug   >>  writeCanHandshake Send Error frame!
+14时48分17秒 : debug   >> writeCanHandshake false
+14时48分17秒 : debug   >> readCanHandshake false
+14时49分22秒 : debug   >> 数据库连接成功!
+14时49分22秒 : debug   >> createDataBaseAllTables success!
+14时49分22秒 : debug   >> socket open success
+14时49分31秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分31秒 : debug   >> writeCanHandshake false
+14时49分31秒 : debug   >> readCanHandshake false
+14时49分31秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分31秒 : debug   >> writeCanHandshake false
+14时49分31秒 : debug   >> readCanHandshake false
+14时49分32秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分32秒 : debug   >> writeCanHandshake false
+14时49分32秒 : debug   >> readCanHandshake false
+14时49分32秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分32秒 : debug   >> writeCanHandshake false
+14时49分32秒 : debug   >> readCanHandshake false
+14时49分33秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分33秒 : debug   >> writeCanHandshake false
+14时49分33秒 : debug   >> readCanHandshake false
+14时49分33秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分33秒 : debug   >> writeCanHandshake false
+14时49分33秒 : debug   >> readCanHandshake false
+14时49分34秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分34秒 : debug   >> writeCanHandshake false
+14时49分34秒 : debug   >> readCanHandshake false
+14时49分34秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分34秒 : debug   >> writeCanHandshake false
+14时49分34秒 : debug   >> readCanHandshake false
+14时49分35秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分35秒 : debug   >> writeCanHandshake false
+14时49分35秒 : debug   >> readCanHandshake false
+14时49分35秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分35秒 : debug   >> writeCanHandshake false
+14时49分35秒 : debug   >> readCanHandshake false
+14时49分36秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分36秒 : debug   >> writeCanHandshake false
+14时49分36秒 : debug   >> readCanHandshake false
+14时49分36秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分36秒 : debug   >> writeCanHandshake false
+14时49分36秒 : debug   >> readCanHandshake false
+14时49分37秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分37秒 : debug   >> writeCanHandshake false
+14时49分37秒 : debug   >> readCanHandshake false
+14时49分37秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分37秒 : debug   >> writeCanHandshake false
+14时49分37秒 : debug   >> readCanHandshake false
+14时49分38秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分38秒 : debug   >> writeCanHandshake false
+14时49分38秒 : debug   >> readCanHandshake false
+14时49分38秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分38秒 : debug   >> writeCanHandshake false
+14时49分38秒 : debug   >> readCanHandshake false
+14时49分39秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分39秒 : debug   >> writeCanHandshake false
+14时49分39秒 : debug   >> readCanHandshake false
+14时49分39秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分39秒 : debug   >> writeCanHandshake false
+14时49分39秒 : debug   >> readCanHandshake false
+14时49分40秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分40秒 : debug   >> writeCanHandshake false
+14时49分40秒 : debug   >> readCanHandshake false
+14时49分40秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分40秒 : debug   >> writeCanHandshake false
+14时49分40秒 : debug   >> readCanHandshake false
+14时49分41秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分41秒 : debug   >> writeCanHandshake false
+14时49分41秒 : debug   >> readCanHandshake false
+14时49分41秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分41秒 : debug   >> writeCanHandshake false
+14时49分41秒 : debug   >> readCanHandshake false
+14时49分42秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分42秒 : debug   >> writeCanHandshake false
+14时49分42秒 : debug   >> readCanHandshake false
+14时49分42秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分42秒 : debug   >> writeCanHandshake false
+14时49分42秒 : debug   >> readCanHandshake false
+14时49分43秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分43秒 : debug   >> writeCanHandshake false
+14时49分43秒 : debug   >> readCanHandshake false
+14时49分43秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分43秒 : debug   >> writeCanHandshake false
+14时49分43秒 : debug   >> readCanHandshake false
+14时49分44秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分44秒 : debug   >> writeCanHandshake false
+14时49分44秒 : debug   >> readCanHandshake false
+14时49分44秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分44秒 : debug   >> writeCanHandshake false
+14时49分44秒 : debug   >> readCanHandshake false
+14时49分45秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分45秒 : debug   >> writeCanHandshake false
+14时49分45秒 : debug   >> readCanHandshake false
+14时49分45秒 : debug   >>  writeCanHandshake Send Error frame!
+14时49分45秒 : debug   >> writeCanHandshake false
+14时49分45秒 : debug   >> readCanHandshake false
+14时50分11秒 : debug   >> 数据库连接成功!
+14时50分11秒 : debug   >> createDataBaseAllTables success!
+14时50分11秒 : debug   >> socket open success
+14时50分19秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分19秒 : debug   >> writeCanHandshake false
+14时50分19秒 : debug   >> readCanHandshake false
+14时50分20秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分20秒 : debug   >> writeCanHandshake false
+14时50分20秒 : debug   >> readCanHandshake false
+14时50分20秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分20秒 : debug   >> writeCanHandshake false
+14时50分20秒 : debug   >> readCanHandshake false
+14时50分21秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分21秒 : debug   >> writeCanHandshake false
+14时50分21秒 : debug   >> readCanHandshake false
+14时50分21秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分21秒 : debug   >> writeCanHandshake false
+14时50分21秒 : debug   >> readCanHandshake false
+14时50分22秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分22秒 : debug   >> writeCanHandshake false
+14时50分22秒 : debug   >> readCanHandshake false
+14时50分22秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分22秒 : debug   >> writeCanHandshake false
+14时50分22秒 : debug   >> readCanHandshake false
+14时50分23秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分23秒 : debug   >> writeCanHandshake false
+14时50分23秒 : debug   >> readCanHandshake false
+14时50分23秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分23秒 : debug   >> writeCanHandshake false
+14时50分23秒 : debug   >> readCanHandshake false
+14时50分24秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分24秒 : debug   >> writeCanHandshake false
+14时50分24秒 : debug   >> readCanHandshake false
+14时50分24秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分24秒 : debug   >> writeCanHandshake false
+14时50分24秒 : debug   >> readCanHandshake false
+14时50分25秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分25秒 : debug   >> writeCanHandshake false
+14时50分25秒 : debug   >> readCanHandshake false
+14时50分25秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分25秒 : debug   >> writeCanHandshake false
+14时50分25秒 : debug   >> readCanHandshake false
+14时50分26秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分26秒 : debug   >> writeCanHandshake false
+14时50分26秒 : debug   >> readCanHandshake false
+14时50分26秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分26秒 : debug   >> writeCanHandshake false
+14时50分26秒 : debug   >> readCanHandshake false
+14时50分27秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分27秒 : debug   >> writeCanHandshake false
+14时50分27秒 : debug   >> readCanHandshake false
+14时50分27秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分27秒 : debug   >> writeCanHandshake false
+14时50分27秒 : debug   >> readCanHandshake false
+14时50分28秒 : debug   >>  writeCanHandshake Send Error frame!
+14时50分28秒 : debug   >> writeCanHandshake false
+14时50分28秒 : debug   >> readCanHandshake false
+15时02分23秒 : debug   >> 数据库连接成功!
+15时02分23秒 : debug   >> createDataBaseAllTables success!
+15时02分23秒 : debug   >> socket open success
+15时02分32秒 : debug   >>  writeCanHandshake Send Error frame!
+15时02分32秒 : debug   >> writeCanHandshake false
+15时02分32秒 : debug   >> readCanHandshake false
+15时02分33秒 : debug   >>  writeCanHandshake Send Error frame!
+15时02分33秒 : debug   >> writeCanHandshake false
+15时02分33秒 : debug   >> readCanHandshake false
+15时02分33秒 : debug   >>  writeCanHandshake Send Error frame!
+15时02分33秒 : debug   >> writeCanHandshake false
+15时02分33秒 : debug   >> readCanHandshake false
+15时02分34秒 : debug   >>  writeCanHandshake Send Error frame!
+15时02分34秒 : debug   >> writeCanHandshake false
+15时02分34秒 : debug   >> readCanHandshake false
+15时02分34秒 : debug   >>  writeCanHandshake Send Error frame!
+15时02分34秒 : debug   >> writeCanHandshake false
+15时02分34秒 : debug   >> readCanHandshake false
+15时02分35秒 : debug   >>  writeCanHandshake Send Error frame!
+15时02分35秒 : debug   >> writeCanHandshake false
+15时02分35秒 : debug   >> readCanHandshake false
+15时02分35秒 : debug   >>  writeCanHandshake Send Error frame!
+15时02分35秒 : debug   >> writeCanHandshake false
+15时02分35秒 : debug   >> readCanHandshake false
+15时02分36秒 : debug   >>  writeCanHandshake Send Error frame!
+15时02分36秒 : debug   >> writeCanHandshake false
+15时02分36秒 : debug   >> readCanHandshake false
+15时02分36秒 : debug   >>  writeCanHandshake Send Error frame!
+15时02分36秒 : debug   >> writeCanHandshake false
+15时02分36秒 : debug   >> readCanHandshake false
+15时08分39秒 : debug   >> 数据库连接成功!
+15时08分39秒 : debug   >> createDataBaseAllTables success!
+15时08分39秒 : debug   >> socket open success
+15时08分49秒 : debug   >>  writeCanHandshake Send Error frame!
+15时08分49秒 : debug   >> writeCanHandshake false
+15时08分49秒 : debug   >> readCanHandshake false
+15时08分49秒 : debug   >>  writeCanHandshake Send Error frame!
+15时08分49秒 : debug   >> writeCanHandshake false
+15时08分49秒 : debug   >> readCanHandshake false
+15时08分50秒 : debug   >>  writeCanHandshake Send Error frame!
+15时08分50秒 : debug   >> writeCanHandshake false
+15时08分50秒 : debug   >> readCanHandshake false
+15时08分50秒 : debug   >>  writeCanHandshake Send Error frame!
+15时08分50秒 : debug   >> writeCanHandshake false
+15时08分50秒 : debug   >> readCanHandshake false
+15时08分51秒 : debug   >>  writeCanHandshake Send Error frame!
+15时08分51秒 : debug   >> writeCanHandshake false
+15时08分51秒 : debug   >> readCanHandshake false
+15时08分51秒 : debug   >>  writeCanHandshake Send Error frame!
+15时08分51秒 : debug   >> writeCanHandshake false
+15时08分51秒 : debug   >> readCanHandshake false

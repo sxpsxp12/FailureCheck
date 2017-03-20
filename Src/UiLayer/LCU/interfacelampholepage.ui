@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>InterfaceLampHolePage</class>
+ <widget class="QWidget" name="InterfaceLampHolePage">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>689</width>
+    <height>426</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QTableWidget{
+	border:none;
+	gridline-color:#828082;
+	font:75 14px;
+	selection-background-color:transparent;
+}
+QTableWidget:item{
+	font:75 14px;
+}
+
+QTableWidget QHeaderView::section:horizontal{
+	color: #fefe00;
+	font:75 16px;
+	background-color:transparent;
+	border: 1px solid #828082;
+}
+
+QTableWidget:item:selected{
+	border: 1px solid  #fefe00;
+	color:#fefefe;
+}
+
+
+
+/*选定的状态*/
+/*QTableWidget:item:selected:!active{
+	border:1px solid #fefe00;
+}*/
+/*
+QTableWidget:item:selected:active{
+	border:1px solid #fefe00;
+}
+*/</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <property name="margin">
+    <number>0</number>
+   </property>
+   <property name="spacing">
+    <number>0</number>
+   </property>
+   <item row="0" column="0">
+    <layout class="QHBoxLayout" name="horizontalLayout_2">
+     <property name="spacing">
+      <number>4</number>
+     </property>
+     <item>
+      <widget class="QTableWidget" name="tableWidget_InterfaceLampHoleleft">
+       <property name="verticalScrollBarPolicy">
+        <enum>Qt::ScrollBarAlwaysOff</enum>
+       </property>
+       <property name="horizontalScrollBarPolicy">
+        <enum>Qt::ScrollBarAlwaysOff</enum>
+       </property>
+       <property name="editTriggers">
+        <set>QAbstractItemView::NoEditTriggers</set>
+       </property>
+       <property name="selectionMode">
+        <enum>QAbstractItemView::SingleSelection</enum>
+       </property>
+       <property name="selectionBehavior">
+        <enum>QAbstractItemView::SelectRows</enum>
+       </property>
+       <property name="cornerButtonEnabled">
+        <bool>false</bool>
+       </property>
+       <property name="rowCount">
+        <number>10</number>
+       </property>
+       <property name="columnCount">
+        <number>8</number>
+       </property>
+       <attribute name="horizontalHeaderCascadingSectionResizes">
+        <bool>false</bool>
+       </attribute>
+       <attribute name="horizontalHeaderHighlightSections">
+        <bool>false</bool>
+       </attribute>
+       <attribute name="horizontalHeaderStretchLastSection">
+        <bool>false</bool>
+       </attribute>
+       <attribute name="verticalHeaderVisible">
+        <bool>false</bool>
+       </attribute>
+       <attribute name="verticalHeaderCascadingSectionResizes">
+        <bool>false</bool>
+       </attribute>
+       <attribute name="verticalHeaderDefaultSectionSize">
+        <number>39</number>
+       </attribute>
+       <attribute name="verticalHeaderHighlightSections">
+        <bool>false</bool>
+       </attribute>
+       <attribute name="verticalHeaderMinimumSectionSize">
+        <number>39</number>
+       </attribute>
+       <attribute name="verticalHeaderStretchLastSection">
+        <bool>false</bool>
+       </attribute>
+       <row/>
+       <row/>
+       <row/>
+       <row/>
+       <row/>
+       <row/>
+       <row/>
+       <row/>
+       <row/>
+       <row/>
+       <column>
+        <property name="text">
+         <string>线号</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>接口</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>指示灯</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>含义</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>线号</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>接口</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>指示灯</string>
+        </property>
+       </column>
+       <column>
+        <property name="text">
+         <string>含义</string>
+        </property>
+       </column>
+      </widget>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
